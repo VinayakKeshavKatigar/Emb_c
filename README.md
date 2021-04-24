@@ -12,6 +12,7 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/faf2a83f365a407f9820335f4defdb96)](https://app.codacy.com/gh/VinayakKeshavKatigar/Emb_c?utm_source=github.com&utm_medium=referral&utm_content=VinayakKeshavKatigar/Emb_c&utm_campaign=Badge_Grade_Settings)
 |[![Compile-Linux](https://github.com/VinayakKeshavKatigar/Emb_c/actions/workflows/Compile.yml/badge.svg)](https://github.com/VinayakKeshavKatigar/Emb_c/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/VinayakKeshavKatigar/Emb_c/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/VinayakKeshavKatigar/Emb_c/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/643b7ca2b2dc4daba1e700c216bb87d9)](https://www.codacy.com/gh/Bharathgopal/Emb-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bharathgopal/Emb-C&amp;utm_campaign=Badge_Grade)|
 
 
