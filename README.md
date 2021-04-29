@@ -13,4 +13,5 @@
 ## Wiki Documentation
 * System [SETUP](https://github.com/Bharathgopal/Emb-C/wiki)
 
-
+Activity_1
+simulation/Activity1.png
