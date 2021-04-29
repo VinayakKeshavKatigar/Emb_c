@@ -10,7 +10,7 @@
  *
  */
 #include<avr/io.h>
-#include"UART.h"
+#include"uart.h"
 /**
  * @brief Port initialization
  *
