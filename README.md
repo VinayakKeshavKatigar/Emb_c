@@ -13,14 +13,4 @@
 ## Wiki Documentation
 * System [SETUP](https://github.com/Bharathgopal/Emb-C/wiki)
 
-Activity 1
-\image html Activity1.png
 
-Activity 2
-github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity2.png
-
-Activity 3
-https://github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity3.png
-
-Activity 4
-https://github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity4.png
