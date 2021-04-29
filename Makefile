@@ -1,4 +1,4 @@
-PROJ_NAME = Blinky
+PROJ_NAME = Activity
 
 BUILD_DIR = Build
 
@@ -8,6 +8,7 @@ src/led.c\
 src/pwm.c\
 src/uart.c\
 main.c\
+
 
 # All header file paths
 INC = -I inc
@@ -36,7 +37,7 @@ endif
 
 all:$(BUILD_DIR)
 # Compile the code and generate the ELF file
-	$(CC) -g -Wall -Os -mmcu=atmega328  $(INC) $(SRC) -o $(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).elf)
+	$(CC) -g -Wall -Os -mmcu=atmega328 -DF_CPU=16000000UL  $(INC) $(SRC) -o $(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).elf)
 
 $(BUILD_DIR):
 # Create directory to store the built files
