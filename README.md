@@ -14,7 +14,7 @@
 * System [SETUP](https://github.com/Bharathgopal/Emb-C/wiki)
 
 Activity 1
-\image html Activity_1.png|
+\image html Activity1.png
 
 Activity 2
 github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity2.png
