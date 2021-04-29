@@ -4,7 +4,6 @@
 
 ## In Action
 
-https://github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity_1.simu
 
 #### CI and Code Quality
 
@@ -15,10 +14,10 @@ https://github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity_1.si
 * System [SETUP](https://github.com/Bharathgopal/Emb-C/wiki)
 
 Activity 1
-https://github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity1.png
+
 
 Activity 2
-https://github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity2.png
+github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity2.png
 
 Activity 3
 https://github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity3.png
