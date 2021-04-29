@@ -3,7 +3,9 @@
 # LED Blinking 
 
 ## In Action
+Activity_1
 
+simulation/Activity1.png
 
 #### CI and Code Quality
 
@@ -13,6 +15,4 @@
 ## Wiki Documentation
 * System [SETUP](https://github.com/Bharathgopal/Emb-C/wiki)
 
-Activity_1
 
-simulation/Activity1.png
