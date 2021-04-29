@@ -13,7 +13,7 @@
 #include "led.h"
 #include "adc.h"
 #include "pwm.h"
-#include "UART.h"
+#include "uart.h"
 #include<avr/io.h>
 
 
