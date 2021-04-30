@@ -1,5 +1,3 @@
-
-
 /**
  * @file adc.c
  * @author vinayak katigar (vvkatigar1999@gmail.com)
