@@ -1,8 +1,8 @@
 # Blinky Project In Action
-https://github.com/VinayakKeshavKatigar/Emb_c/blob/main/simulation/Activity1.png
+
 |ON|OFF|
 |:--:|:--:|
-|\image html ON.png||
+|\image html Activity1.png||
 
 ## Code 
 ```
