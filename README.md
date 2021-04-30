@@ -3,7 +3,7 @@
 # LED Blinking 
 
 ## In Action
-
+\image html Activity1.png
 
 #### CI and Code Quality
 
