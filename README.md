@@ -14,3 +14,12 @@
 ### Activity 1
 |![Diagram](simulation/Activity1.png)|
 
+### Activity 2
+|![Diagram](simulation/Activity2.png)|
+
+### Activity 3
+|![Diagram](simulation/Activity3.png)|
+
+### Activity 4
+|![Diagram](simulation/Activity4.png)|
+
