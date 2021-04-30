@@ -2,7 +2,7 @@
 
 /**
  * @file led.c
- * @author vinayak katigar (vvkatigar19992gmail.com)
+ * @author vinayak katigar (vvkatigar1999@gmail.com)
  * @brief led state Changes with two switch
  * @version 0.1
  * @date 2021-04-23
