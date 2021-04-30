@@ -24,9 +24,9 @@ void led(uint8_t state)
 }
 void InitLED(void)
 {
-	DDRB|=(1<<PB0);
-    DDRD&=~(1<<PD0);
+    DDRB|=(1<<PB0);
+    DDRD&=~(1<<PD0);//clearing the port D0
     PORTD|=(1<<PD0);
-    DDRD&=~(1<<PD1);
+    DDRD&=~(1<<PD1);//clearing the port D1
     PORTD|=(1<<PD1);
 }
