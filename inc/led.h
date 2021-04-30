@@ -1,6 +1,3 @@
-
-#ifndef __LED_H_
-#define __LED_H_
 /**
  * @file led.h
  * @author vinayak katigar (vvkatigar1999@gmail.com)
@@ -12,6 +9,8 @@
  *
  */
 
+#ifndef __LED_H_
+#define __LED_H_
 
 
 /**
@@ -22,8 +21,8 @@
 
 //Macro definition
 
-#define LED_ON 	(0x01)			/**< LED state HIGH */
-#define LED_OFF	(0x00)			/**< LED state LOW */
+#define LED_ON 	(0x01)	/**< HIGH */
+#define LED_OFF	(0x00)	/**< LOW */
 
 
 #define LED_PORT (PORTB)    /**< LED Port Number */
