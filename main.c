@@ -9,12 +9,13 @@
  *
  */
 
+#include<avr/io.h>
 
 #include "led.h"
 #include "adc.h"
 #include "pwm.h"
 #include "uart.h"
-#include<avr/io.h>
+
 
 
 /**
@@ -24,13 +25,13 @@
 
 void peripheral_init(void)
 {
-    /*Configure LED and Switch pins*/
+    /* LED and Switch pins */
     InitLED();
-    /*Configure ADC registers and pins*/
+    /* ADC registers and pins */
     InitADC();
-    /*Configure PWM registers and pins*/
+    /* PWM registers and pins */
     InitPWM();
-    /*Configure UART serial communication pin*/
+    /* UART serial communication pins */
     InitUART(103);
 }
 
@@ -45,6 +46,7 @@ int main(void)
     {
         if(SWITCH_1_ON) //If switch_1 is ON
         {
+            
             if(SWITCH_2_ON) //If switch_2 is ON
             {
                 led(LED_ON);//LED is ON
@@ -59,6 +61,7 @@ int main(void)
 
                 led(LED_OFF);
             }
+            
         }
 
         else
