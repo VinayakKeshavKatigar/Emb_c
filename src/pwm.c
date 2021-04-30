@@ -1,5 +1,3 @@
-
-
 /**
  * @file pwm.c
  * @author vinayak katigar (vvkatigar1999@gmail.com)
@@ -10,13 +8,16 @@
  * @copyright Copyright (c) 2021
  *
  */
+
 #include"pwm.h"
 #include<util/delay.h>
 #include<avr/io.h>
+
 /**
  * @brief initialize timer and counter register
  *
  */
+
 void InitPWM(void)
 {
     /*Configuring the registers and ports*/
@@ -25,6 +26,7 @@ void InitPWM(void)
     DDRB|=(1<<PB1);
 
 }
+
 /**
  * @brief Analog input coverted in digital ADC is used optain that
  *
